@@ -8,9 +8,9 @@
     
 }
 .sectionTwo p{
-    font-size: 60px;
+    font-size: 70px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     color:seashell;
     margin-bottom: 10px;
 }
@@ -34,4 +34,10 @@
     cursor: pointer;
     height: 60px;
     width: 200px;
+}
+#content{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
 }
