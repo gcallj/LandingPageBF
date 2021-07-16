@@ -1,0 +1,11 @@
+@import url("sectionOne.css");
+@import url("sectionTwo.css");
+@import url("footer.css");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("/assets/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
